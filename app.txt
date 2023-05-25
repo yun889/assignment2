@@ -4,3 +4,4 @@ appname = "atom"
 add login
 add logout
 add quit
+damn
